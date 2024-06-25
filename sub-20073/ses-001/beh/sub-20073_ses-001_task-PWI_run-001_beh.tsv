@@ -1,0 +1,882 @@
+Subject	Trial	Event Type	Code	trial_boolean(num)	condition_code(num)	condition_label(str)	Time	TTime	Uncertainty...10	Duration	Uncertainty...12	ReqTime	ReqDur	Stim Type	Pair Index
+20073	1	Picture	0;11;localize	0	11	localize	-1	0	1	159334	7	0	next	other	0
+20073	1	Response	0	n/a	n/a	n/a	158989	158990	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	2	Picture	0;111;blockstart	0	111	blockstart	159333	0	7	167	7	0	next	other	0
+20073	3	Picture	block_tar_pic	block_tar_pic	n/a	n/a	159500	0	1	50500	1	0	next	other	0
+20073	3	Sound	block_tar_sound	block_tar_sound	n/a	n/a	159530	31	251	n/a	n/a	0	n/a	other	0
+20073	5	Picture	trial_start	trial_start	n/a	n/a	215167	0	1	667	7	0	next	other	0
+20073	5	Picture	1; 50; No; pictures//nontarget//vest.jpeg	1	50	No	215834	667	7	24834	7	580	next	miss	0
+20073	5	Sound	1; 0; No; sounds//empty.wav	1	0	No	215837	670	2	n/a	n/a	670	n/a	hit	9
+20073	5	Response	21	n/a	n/a	n/a	233852	18685	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	7	Picture	trial_start	trial_start	n/a	n/a	245834	0	1	667	7	0	next	other	0
+20073	7	Picture	2; 30; P; pictures//nontarget//panda.jpg	2	30	P	246500	667	7	25000	7	580	next	miss	0
+20073	7	Sound	2; 0; P; sounds//panel.wav	2	0	P	246504	670	2	n/a	n/a	670	n/a	hit	13
+20073	7	Response	21	n/a	n/a	n/a	260861	15027	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	9	Picture	trial_start	trial_start	n/a	n/a	276667	0	1	2667	7	0	next	other	0
+20073	9	Sound	3; 45; C; sounds//bread.wav	3	45	C	277337	670	2	n/a	n/a	670	n/a	hit	17
+20073	9	Picture	3; 40; C; pictures//nontarget//pizza.jpg	3	40	C	279334	2667	7	23500	7	2580	next	miss	0
+20073	9	Response	21	n/a	n/a	n/a	293602	16934	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	11	Picture	trial_start	trial_start	n/a	n/a	308001	0	1	667	7	0	next	other	0
+20073	11	Picture	4; 30; P; pictures//target//fork.jpg	4	30	P	308668	667	7	25000	7	580	next	miss	0
+20073	11	Sound	4; 0; P; sounds//forces.wav	4	0	P	308671	670	2	n/a	n/a	670	n/a	hit	21
+20073	11	Response	11	n/a	n/a	n/a	322319	14318	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	13	Picture	trial_start	trial_start	n/a	n/a	338835	0	1	667	7	0	next	other	0
+20073	13	Picture	5; 10; UN_0; pictures//nontarget//monkey.jpeg	5	10	UN_0	339501	667	7	27667	7	580	next	miss	0
+20073	13	Sound	5; 0; UN_0; sounds//seed.wav	5	0	UN_0	339505	670	2	n/a	n/a	670	n/a	hit	25
+20073	13	Response	21	n/a	n/a	n/a	355079	16245	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	15	Picture	trial_start	trial_start	n/a	n/a	372335	0	1	667	7	0	next	other	0
+20073	15	Picture	6; 50; No; pictures//nontarget//film.jpeg	6	50	No	373001	667	7	24833	7	580	next	miss	0
+20073	15	Sound	6; 0; No; sounds//empty.wav	6	0	No	373005	670	2	n/a	n/a	670	n/a	hit	29
+20073	15	Response	21	n/a	n/a	n/a	390059	17724	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	17	Picture	trial_start	trial_start	n/a	n/a	403002	0	1	667	7	0	next	other	0
+20073	17	Picture	7; 10; UN_0; pictures//target//ink.jpg	7	10	UN_0	403668	667	7	25667	7	580	next	miss	0
+20073	17	Sound	7; 0; UN_0; sounds//needle.wav	7	0	UN_0	403672	670	1	n/a	n/a	670	n/a	hit	33
+20073	17	Response	11	n/a	n/a	n/a	418648	15646	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	19	Picture	trial_start	trial_start	n/a	n/a	434502	0	1	667	7	0	next	other	0
+20073	19	Picture	8; 10; UN_0; pictures//nontarget//bowtie.jpeg	8	10	UN_0	435168	667	7	25667	7	580	next	miss	0
+20073	19	Sound	8; 0; UN_0; sounds//tear.wav	8	0	UN_0	435172	670	2	n/a	n/a	670	n/a	hit	37
+20073	19	Response	21	n/a	n/a	n/a	449196	14695	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	21	Picture	trial_start	trial_start	n/a	n/a	466002	0	1	667	7	0	next	other	0
+20073	21	Picture	9; 10; UN_0; pictures//target//lipstick.jpg	9	10	UN_0	466669	667	7	24667	7	580	next	miss	0
+20073	21	Sound	9; 0; UN_0; sounds//prison.wav	9	0	UN_0	466672	670	1	n/a	n/a	670	n/a	hit	41
+20073	21	Response	11	n/a	n/a	n/a	480936	14934	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	23	Picture	trial_start	trial_start	n/a	n/a	496502	0	1	667	7	0	next	other	0
+20073	23	Picture	10; 30; P; pictures//target//chalk.jpg	10	30	P	497169	667	7	24834	7	580	next	miss	0
+20073	23	Sound	10; 0; P; sounds//choice.wav	10	0	P	497172	670	2	n/a	n/a	670	n/a	hit	45
+20073	23	Response	11	n/a	n/a	n/a	507796	11294	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	25	Picture	trial_start	trial_start	n/a	n/a	527169	0	1	2667	7	0	next	other	0
+20073	25	Sound	11; 45; C; sounds//seat.wav	11	45	C	527839	670	2	n/a	n/a	670	n/a	hit	49
+20073	25	Picture	11; 40; C; pictures//nontarget//bench.jpg	11	40	C	529836	2667	7	23000	7	2580	next	miss	0
+20073	25	Response	21	n/a	n/a	n/a	547484	20315	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	27	Picture	trial_start	trial_start	n/a	n/a	558003	0	1	2667	7	0	next	other	0
+20073	27	Sound	12; 25; UN_200; sounds//people.wav	12	25	UN_200	558673	670	2	n/a	n/a	670	n/a	hit	53
+20073	27	Picture	12; 20; UN_200; pictures//target//steak.jpg	12	20	UN_200	560669	2667	7	22834	7	2580	next	miss	0
+20073	27	Response	11	n/a	n/a	n/a	570365	12362	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	29	Picture	trial_start	trial_start	n/a	n/a	588670	0	1	2667	7	0	next	other	0
+20073	29	Sound	13; 25; UN_200; sounds//freedom.wav	13	25	UN_200	589340	670	2	n/a	n/a	670	n/a	hit	57
+20073	29	Picture	13; 20; UN_200; pictures//nontarget//worm.png	13	20	UN_200	591336	2667	7	22667	7	2580	next	miss	0
+20073	29	Response	21	n/a	n/a	n/a	610256	21586	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	31	Picture	trial_start	trial_start	n/a	n/a	619170	0	1	667	7	0	next	other	0
+20073	31	Picture	14; 50; No; pictures//nontarget//giraffe.jpeg	14	50	No	619836	667	7	27834	7	580	next	miss	0
+20073	31	Sound	14; 0; No; sounds//empty.wav	14	0	No	619840	670	2	n/a	n/a	670	n/a	hit	61
+20073	31	Response	21	n/a	n/a	n/a	633103	13933	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	33	Picture	trial_start	trial_start	n/a	n/a	652837	0	1	667	7	0	next	other	0
+20073	33	Picture	15; 50; No; pictures//target//sink.jpeg	15	50	No	653503	667	7	25834	7	580	next	miss	0
+20073	33	Sound	15; 0; No; sounds//empty.wav	15	0	No	653507	670	2	n/a	n/a	670	n/a	hit	65
+20073	33	Response	11	n/a	n/a	n/a	663893	11057	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	35	Picture	trial_start	trial_start	n/a	n/a	684504	0	1	2667	7	0	next	other	0
+20073	35	Sound	16; 45; C; sounds//pamphlet.wav	16	45	C	685174	670	2	n/a	n/a	670	n/a	hit	69
+20073	35	Picture	16; 40; C; pictures//target//book.jpg	16	40	C	687170	2667	7	22833	7	2580	next	miss	0
+20073	35	Response	11	n/a	n/a	n/a	697143	12640	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	37	Picture	trial_start	trial_start	n/a	n/a	715171	0	1	2667	7	0	next	other	0
+20073	37	Sound	17; 45; C; sounds//pear.wav	17	45	C	715841	670	2	n/a	n/a	670	n/a	hit	73
+20073	37	Picture	17; 40; C; pictures//nontarget//avocado.jpg	17	40	C	717837	2667	7	23167	7	2580	next	miss	0
+20073	37	Response	21	n/a	n/a	n/a	727571	12401	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	39	Picture	trial_start	trial_start	n/a	n/a	746171	0	1	667	7	0	next	other	0
+20073	39	Picture	18; 10; UN_0; pictures//target//milk.jpg	18	10	UN_0	746837	667	7	24834	7	580	next	miss	0
+20073	39	Sound	18; 0; UN_0; sounds//budget.wav	18	0	UN_0	746841	670	2	n/a	n/a	670	n/a	hit	77
+20073	39	Response	11	n/a	n/a	n/a	763751	17580	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	41	Picture	trial_start	trial_start	n/a	n/a	776838	0	1	2667	7	0	next	other	0
+20073	41	Sound	19; 25; UN_200; sounds//sacrifice.wav	19	25	UN_200	777508	670	2	n/a	n/a	670	n/a	hit	81
+20073	41	Picture	19; 20; UN_200; pictures//nontarget//olive.jpg	19	20	UN_200	779504	2667	7	23833	7	2580	next	miss	0
+20073	41	Response	21	n/a	n/a	n/a	795712	18874	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	43	Picture	trial_start	trial_start	n/a	n/a	808504	0	1	667	7	0	next	other	0
+20073	43	Picture	20; 30; P; pictures//target//duck.jpg	20	30	P	809171	667	7	24834	7	580	next	miss	0
+20073	43	Sound	20; 0; P; sounds//duchess.wav	20	0	P	809174	670	1	n/a	n/a	670	n/a	hit	85
+20073	43	Response	11	n/a	n/a	n/a	826370	17865	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	45	Picture	trial_start	trial_start	n/a	n/a	839171	0	1	667	7	0	next	other	0
+20073	45	Picture	21; 10; UN_0; pictures//nontarget//cave.jpg	21	10	UN_0	839838	667	7	25167	7	580	next	miss	0
+20073	45	Sound	21; 0; UN_0; sounds//tax.wav	21	0	UN_0	839841	670	1	n/a	n/a	670	n/a	hit	89
+20073	45	Response	21	n/a	n/a	n/a	859699	20528	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	47	Picture	trial_start	trial_start	n/a	n/a	870172	0	1	667	7	0	next	other	0
+20073	47	Picture	22; 50; No; pictures//target//cake.jpeg	22	50	No	870838	667	7	24667	7	580	next	miss	0
+20073	47	Sound	22; 0; No; sounds//empty.wav	22	0	No	870842	670	2	n/a	n/a	670	n/a	hit	93
+20073	47	Response	11	n/a	n/a	n/a	891860	21688	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	49	Picture	trial_start	trial_start	n/a	n/a	900672	0	1	667	7	0	next	other	0
+20073	49	Picture	23; 50; No; pictures//target//pancake.jpeg	23	50	No	901339	667	7	25667	7	580	next	miss	0
+20073	49	Sound	23; 0; No; sounds//empty.wav	23	0	No	901342	670	2	n/a	n/a	670	n/a	hit	97
+20073	49	Response	11	n/a	n/a	n/a	915928	15256	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	51	Picture	trial_start	trial_start	n/a	n/a	932172	0	1	2667	7	0	next	other	0
+20073	51	Sound	24; 45; C; sounds//whale.wav	24	45	C	932842	670	2	n/a	n/a	670	n/a	hit	101
+20073	51	Picture	24; 40; C; pictures//target//shark.jpg	24	40	C	934839	2667	7	23667	7	2580	next	miss	0
+20073	51	Response	11	n/a	n/a	n/a	948758	16586	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	53	Picture	trial_start	trial_start	n/a	n/a	963672	0	1	667	7	0	next	other	0
+20073	53	Picture	25; 30; P; pictures//nontarget//Bow.jpg	25	30	P	964339	667	7	24833	7	580	next	miss	0
+20073	53	Sound	25; 0; P; sounds//bone.wav	25	0	P	964342	670	2	n/a	n/a	670	n/a	hit	105
+20073	53	Response	21	n/a	n/a	n/a	977927	14255	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	55	Picture	trial_start	trial_start	n/a	n/a	994339	0	1	667	7	0	next	other	0
+20073	55	Picture	26; 30; P; pictures//nontarget//jam.png	26	30	P	995006	667	7	25834	7	580	next	miss	0
+20073	55	Sound	26; 0; P; sounds//jazz.wav	26	0	P	995009	670	1	n/a	n/a	670	n/a	hit	109
+20073	55	Response	21	n/a	n/a	n/a	1014937	20598	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	57	Picture	trial_start	trial_start	n/a	n/a	1026006	0	1	2667	7	0	next	other	0
+20073	57	Sound	27; 45; C; sounds//pie.wav	27	45	C	1026676	670	1	n/a	n/a	670	n/a	hit	113
+20073	57	Picture	27; 40; C; pictures//target//cupcake.jpg	27	40	C	1028673	2667	7	22834	7	2580	next	miss	0
+20073	57	Response	11	n/a	n/a	n/a	1042506	16499	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	59	Picture	trial_start	trial_start	n/a	n/a	1056673	0	1	2667	7	0	next	other	0
+20073	59	Sound	28; 25; UN_200; sounds//speed.wav	28	25	UN_200	1057343	670	1	n/a	n/a	670	n/a	hit	117
+20073	59	Picture	28; 20; UN_200; pictures//target//bank.jpg	28	20	UN_200	1059340	2667	7	22833	7	2580	next	miss	0
+20073	59	Response	11	n/a	n/a	n/a	1070736	14063	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	61	Picture	trial_start	trial_start	n/a	n/a	1087340	0	1	2667	7	0	next	other	0
+20073	61	Sound	29; 25; UN_200; sounds//memory.wav	29	25	UN_200	1088010	670	2	n/a	n/a	670	n/a	hit	121
+20073	61	Picture	29; 20; UN_200; pictures//nontarget//lasangna.jpg	29	20	UN_200	1090007	2667	7	22834	7	2580	next	miss	0
+20073	61	Response	21	n/a	n/a	n/a	1100505	13165	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	63	Picture	trial_start	trial_start	n/a	n/a	1118007	0	1	2667	7	0	next	other	0
+20073	63	Sound	30; 25; UN_200; sounds//city.wav	30	25	UN_200	1118677	670	2	n/a	n/a	670	n/a	hit	125
+20073	63	Picture	30; 20; UN_200; pictures//target//neck.png	30	20	UN_200	1120674	2667	7	22500	13	2580	next	miss	0
+20073	63	Response	11	n/a	n/a	n/a	1135454	17447	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	64	Picture	0;222;blockend	0	222	blockend	1143174	0	7	333	13	0	next	other	0
+20073	65	Picture	0;111;blockstart	0	111	blockstart	1143507	0	7	167	7	0	next	other	0
+20073	66	Picture	block_tar_pic	block_tar_pic	n/a	n/a	1143674	0	1	50667	1	0	next	other	0
+20073	66	Sound	block_tar_sound	block_tar_sound	n/a	n/a	1143680	6	1	n/a	n/a	0	n/a	other	0
+20073	68	Picture	trial_start	trial_start	n/a	n/a	1199507	0	1	667	7	0	next	other	0
+20073	68	Picture	1; 10; UN_0; pictures//nontarget//bamboo.jpg	1	10	UN_0	1200174	667	7	25667	7	580	next	miss	0
+20073	68	Sound	1; 0; UN_0; sounds//survey.wav	1	0	UN_0	1200177	670	2	n/a	n/a	670	n/a	hit	133
+20073	68	Response	21	n/a	n/a	n/a	1215510	16003	3	n/a	n/a	n/a	n/a	n/a	n/a
+20073	70	Picture	trial_start	trial_start	n/a	n/a	1231008	0	1	2667	7	0	next	other	0
+20073	70	Sound	2; 25; UN_200; sounds//lung.wav	2	25	UN_200	1231678	670	1	n/a	n/a	670	n/a	miss	0
+20073	70	Picture	2; 20; UN_200; pictures//nontarget//microscope.jpg	2	20	UN_200	1233674	2667	7	22833	7	2580	next	miss	0
+20073	71	Response	2	n/a	n/a	n/a	1257912	1405	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	72	Picture	trial_start	trial_start	n/a	n/a	1261674	0	1	2667	7	0	next	other	0
+20073	72	Sound	3; 45; C; sounds//veil.wav	3	45	C	1262344	670	1	n/a	n/a	670	n/a	hit	141
+20073	72	Picture	3; 40; C; pictures//target//mask.jpeg	3	40	C	1264341	2667	7	24000	7	2580	next	miss	0
+20073	72	Response	11	n/a	n/a	n/a	1273452	11778	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	74	Picture	trial_start	trial_start	n/a	n/a	1293508	0	1	667	7	0	next	other	0
+20073	74	Picture	4; 30; P; pictures//nontarget//microwave.jpg	4	30	P	1294175	667	7	25834	7	580	next	miss	0
+20073	74	Sound	4; 0; P; sounds//mile.wav	4	0	P	1294178	670	2	n/a	n/a	670	n/a	hit	145
+20073	74	Response	21	n/a	n/a	n/a	1305390	11883	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	76	Picture	trial_start	trial_start	n/a	n/a	1325175	0	1	667	7	0	next	other	0
+20073	76	Picture	5; 30; P; pictures//target//peacock.jpg	5	30	P	1325842	667	7	25834	7	580	next	miss	0
+20073	76	Sound	5; 0; P; sounds//peace.wav	5	0	P	1325845	670	1	n/a	n/a	670	n/a	hit	149
+20073	76	Response	11	n/a	n/a	n/a	1335421	10246	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	78	Picture	trial_start	trial_start	n/a	n/a	1356842	0	1	667	7	0	next	other	0
+20073	78	Picture	6; 10; UN_0; pictures//target//brick.jpg	6	10	UN_0	1357508	667	7	24834	7	580	next	miss	0
+20073	78	Sound	6; 0; UN_0; sounds//promise.wav	6	0	UN_0	1357512	670	1	n/a	n/a	670	n/a	hit	153
+20073	78	Response	11	n/a	n/a	n/a	1367500	10658	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	80	Picture	trial_start	trial_start	n/a	n/a	1387509	0	1	2667	7	0	next	other	0
+20073	80	Sound	7; 25; UN_200; sounds//cell.wav	7	25	UN_200	1388179	670	1	n/a	n/a	670	n/a	hit	157
+20073	80	Picture	7; 20; UN_200; pictures//target//lock.jpg	7	20	UN_200	1390175	2667	7	22667	7	2580	next	miss	0
+20073	80	Response	11	n/a	n/a	n/a	1405189	17680	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	82	Picture	trial_start	trial_start	n/a	n/a	1418009	0	1	667	7	0	next	other	0
+20073	82	Picture	8; 50; No; pictures//nontarget//seatbelt.jpeg	8	50	No	1418676	667	7	25000	7	580	next	miss	0
+20073	82	Sound	8; 0; No; sounds//empty.wav	8	0	No	1418679	670	2	n/a	n/a	670	n/a	hit	161
+20073	82	Response	21	n/a	n/a	n/a	1437259	19250	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	84	Picture	trial_start	trial_start	n/a	n/a	1448842	0	1	667	7	0	next	other	0
+20073	84	Picture	9; 50; No; pictures//target//hook.jpeg	9	50	No	1449509	667	7	24833	7	580	next	miss	0
+20073	84	Sound	9; 0; No; sounds//empty.wav	9	0	No	1449512	670	1	n/a	n/a	670	n/a	hit	165
+20073	84	Response	11	n/a	n/a	n/a	1465167	16324	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	86	Picture	trial_start	trial_start	n/a	n/a	1479509	0	1	2667	7	0	next	other	0
+20073	86	Sound	10; 45; C; sounds//beetle.wav	10	45	C	1480179	670	1	n/a	n/a	670	n/a	hit	169
+20073	86	Picture	10; 40; C; pictures//nontarget//fly.jpg	10	40	C	1482176	2667	7	22834	7	2580	next	miss	0
+20073	86	Response	21	n/a	n/a	n/a	1498098	18588	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	88	Picture	trial_start	trial_start	n/a	n/a	1510176	0	1	2667	7	0	next	other	0
+20073	88	Sound	11; 25; UN_200; sounds//poetry.wav	11	25	UN_200	1510846	670	2	n/a	n/a	670	n/a	hit	173
+20073	88	Picture	11; 20; UN_200; pictures//target//truck.jpg	11	20	UN_200	1512843	2667	7	23833	7	2580	next	miss	0
+20073	88	Response	11	n/a	n/a	n/a	1525336	15160	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	90	Picture	trial_start	trial_start	n/a	n/a	1541843	0	1	667	7	0	next	other	0
+20073	90	Picture	12; 30; P; pictures//target//garlic.jpg	12	30	P	1542510	667	7	24834	7	580	next	miss	0
+20073	90	Sound	12; 0; P; sounds//garden.wav	12	0	P	1542513	670	1	n/a	n/a	670	n/a	hit	177
+20073	90	Response	11	n/a	n/a	n/a	1562496	20653	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	92	Picture	trial_start	trial_start	n/a	n/a	1572510	0	1	667	7	0	next	other	0
+20073	92	Picture	13; 10; UN_0; pictures//target//tank.jpg	13	10	UN_0	1573177	667	7	24833	7	580	next	miss	0
+20073	92	Sound	13; 0; UN_0; sounds//gown.wav	13	0	UN_0	1573180	670	2	n/a	n/a	670	n/a	incorrect	181
+20073	92	Response	2	n/a	n/a	n/a	1594454	21944	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	94	Picture	trial_start	trial_start	n/a	n/a	1603177	0	1	667	7	0	next	other	0
+20073	94	Picture	14; 10; UN_0; pictures//nontarget//cage.jpeg	14	10	UN_0	1603844	667	7	25833	7	580	next	miss	0
+20073	94	Sound	14; 0; UN_0; sounds//phrase.wav	14	0	UN_0	1603847	670	2	n/a	n/a	670	n/a	miss	0
+20073	94	Response	2	n/a	n/a	n/a	1628177	25001	1387	n/a	n/a	n/a	n/a	n/a	n/a
+20073	96	Picture	trial_start	trial_start	n/a	n/a	1634844	0	1	667	7	0	next	other	0
+20073	96	Picture	15; 30; P; pictures//target//clock.jpg	15	30	P	1635511	667	7	24667	7	580	next	miss	0
+20073	96	Sound	15; 0; P; sounds//closet.wav	15	0	P	1635514	670	2	n/a	n/a	670	n/a	hit	189
+20073	96	Response	11	n/a	n/a	n/a	1648523	13680	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	98	Picture	trial_start	trial_start	n/a	n/a	1665344	0	1	667	7	0	next	other	0
+20073	98	Picture	16; 50; No; pictures//target//toothpick.jpeg	16	50	No	1666011	667	7	24833	7	580	next	miss	0
+20073	98	Sound	16; 0; No; sounds//empty.wav	16	0	No	1666014	670	2	n/a	n/a	670	n/a	hit	193
+20073	98	Response	11	n/a	n/a	n/a	1685923	20579	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	100	Picture	trial_start	trial_start	n/a	n/a	1696011	0	1	2667	7	0	next	other	0
+20073	100	Sound	17; 45; C; sounds//table.wav	17	45	C	1696681	670	2	n/a	n/a	670	n/a	incorrect	197
+20073	100	Picture	17; 40; C; pictures//target//desk.jpg	17	40	C	1698678	2667	7	22667	7	2580	next	miss	0
+20073	100	Response	2	n/a	n/a	n/a	1709952	13941	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	102	Picture	trial_start	trial_start	n/a	n/a	1726511	0	1	2667	7	0	next	other	0
+20073	102	Sound	18; 25; UN_200; sounds//blood.wav	18	25	UN_200	1727181	670	1	n/a	n/a	670	n/a	miss	0
+20073	102	Picture	18; 20; UN_200; pictures//nontarget//stamp.jpg	18	20	UN_200	1729178	2667	7	23667	7	2580	next	miss	0
+20073	104	Picture	trial_start	trial_start	n/a	n/a	1758011	0	1	2667	7	0	next	other	0
+20073	104	Sound	19; 45; C; sounds//lizard.wav	19	45	C	1758681	670	2	n/a	n/a	670	n/a	hit	204
+20073	104	Picture	19; 40; C; pictures//target//snake.jpg	19	40	C	1760678	2667	7	24834	7	2580	next	miss	0
+20073	104	Response	11	n/a	n/a	n/a	1776771	18760	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	106	Picture	trial_start	trial_start	n/a	n/a	1790678	0	1	667	7	0	next	other	0
+20073	106	Picture	20; 30; P; pictures//nontarget//wing.png	20	30	P	1791345	667	7	25000	7	580	next	miss	0
+20073	106	Sound	20; 0; P; sounds//winner.wav	20	0	P	1791348	670	1	n/a	n/a	670	n/a	hit	208
+20073	106	Response	21	n/a	n/a	n/a	1803941	13262	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	108	Picture	trial_start	trial_start	n/a	n/a	1821512	0	1	2667	7	0	next	other	0
+20073	108	Sound	21; 25; UN_200; sounds//glimpse.wav	21	25	UN_200	1822182	670	2	n/a	n/a	670	n/a	hit	212
+20073	108	Picture	21; 20; UN_200; pictures//nontarget//mango.jpg	21	20	UN_200	1824179	2667	7	22667	7	2580	next	miss	0
+20073	108	Response	21	n/a	n/a	n/a	1835059	13547	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	110	Picture	trial_start	trial_start	n/a	n/a	1852012	0	1	667	7	0	next	other	0
+20073	110	Picture	22; 50; No; pictures//nontarget//mouth.jpeg	22	50	No	1852679	667	7	25167	7	580	next	miss	0
+20073	110	Sound	22; 0; No; sounds//empty.wav	22	0	No	1852682	670	2	n/a	n/a	670	n/a	hit	216
+20073	110	Response	21	n/a	n/a	n/a	1869108	17096	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	112	Picture	trial_start	trial_start	n/a	n/a	1883012	0	1	667	7	0	next	other	0
+20073	112	Picture	23; 30; P; pictures//nontarget//Ladybug.jpg	23	30	P	1883679	667	7	25834	7	580	next	miss	0
+20073	112	Sound	23; 0; P; sounds//labor.wav	23	0	P	1883682	670	1	n/a	n/a	670	n/a	hit	220
+20073	112	Response	21	n/a	n/a	n/a	1897188	14176	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	114	Picture	trial_start	trial_start	n/a	n/a	1914679	0	1	2667	7	0	next	other	0
+20073	114	Sound	24; 25; UN_200; sounds//orange.wav	24	25	UN_200	1915349	670	2	n/a	n/a	670	n/a	hit	224
+20073	114	Picture	24; 20; UN_200; pictures//target//skunk.jpg	24	20	UN_200	1917346	2667	7	24000	7	2580	next	miss	0
+20073	114	Response	11	n/a	n/a	n/a	1932378	17699	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	116	Picture	trial_start	trial_start	n/a	n/a	1946513	0	1	667	7	0	next	other	0
+20073	116	Picture	25; 10; UN_0; pictures//nontarget//Sushi.jpg	25	10	UN_0	1947179	667	7	24667	7	580	next	miss	0
+20073	116	Sound	25; 0; UN_0; sounds//dirt.wav	25	0	UN_0	1947183	670	2	n/a	n/a	670	n/a	hit	228
+20073	116	Response	21	n/a	n/a	n/a	1958728	12215	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	118	Picture	trial_start	trial_start	n/a	n/a	1977013	0	1	667	7	0	next	other	0
+20073	118	Picture	26; 50; No; pictures//target//whisk.jpeg	26	50	No	1977680	667	7	24667	7	580	next	miss	0
+20073	118	Sound	26; 0; No; sounds//empty.wav	26	0	No	1977683	670	1	n/a	n/a	670	n/a	hit	232
+20073	118	Response	11	n/a	n/a	n/a	1989187	12174	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	120	Picture	trial_start	trial_start	n/a	n/a	2007513	0	1	2667	7	0	next	other	0
+20073	120	Sound	27; 45; C; sounds//lobster.wav	27	45	C	2008183	670	2	n/a	n/a	670	n/a	hit	236
+20073	120	Picture	27; 40; C; pictures//nontarget//shrimp.png	27	40	C	2010180	2667	7	23834	7	2580	next	miss	0
+20073	120	Response	21	n/a	n/a	n/a	2023406	15893	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	122	Picture	trial_start	trial_start	n/a	n/a	2039180	0	1	2667	7	0	next	other	0
+20073	122	Sound	28; 45; C; sounds//charger.wav	28	45	C	2039850	670	2	n/a	n/a	670	n/a	hit	240
+20073	122	Picture	28; 40; C; pictures//nontarget//battery.jpg	28	40	C	2041847	2667	7	23833	7	2580	next	miss	0
+20073	122	Response	21	n/a	n/a	n/a	2058055	18875	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	124	Picture	trial_start	trial_start	n/a	n/a	2070847	0	1	667	7	0	next	other	0
+20073	124	Picture	29; 10; UN_0; pictures//target//smoke.jpg	29	10	UN_0	2071514	667	7	26834	7	580	next	miss	0
+20073	124	Sound	29; 0; UN_0; sounds//belly.wav	29	0	UN_0	2071517	670	1	n/a	n/a	670	n/a	hit	244
+20073	124	Response	11	n/a	n/a	n/a	2085905	15058	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	126	Picture	trial_start	trial_start	n/a	n/a	2103514	0	1	667	7	0	next	other	0
+20073	126	Picture	30; 50; No; pictures//nontarget//shower.jpeg	30	50	No	2104181	667	7	24500	13	580	next	miss	0
+20073	126	Sound	30; 0; No; sounds//empty.wav	30	0	No	2104184	670	2	n/a	n/a	670	n/a	hit	248
+20073	126	Response	21	n/a	n/a	n/a	2115174	11660	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	127	Picture	0;222;blockend	0	222	blockend	2128681	0	7	333	13	0	next	other	0
+20073	128	Picture	0;111;blockstart	0	111	blockstart	2129014	0	7	167	7	0	next	other	0
+20073	129	Picture	block_tar_pic	block_tar_pic	n/a	n/a	2129181	0	1	50834	1	0	next	other	0
+20073	129	Sound	block_tar_sound	block_tar_sound	n/a	n/a	2129187	6	1	n/a	n/a	0	n/a	other	0
+20073	131	Picture	trial_start	trial_start	n/a	n/a	2185181	0	1	667	7	0	next	other	0
+20073	131	Picture	1; 10; UN_0; pictures//nontarget//airbag.jpg	1	10	UN_0	2185848	667	7	25667	7	580	next	miss	0
+20073	131	Sound	1; 0; UN_0; sounds//purple.wav	1	0	UN_0	2185851	670	1	n/a	n/a	670	n/a	miss	0
+20073	131	Response	2	n/a	n/a	n/a	2210182	25001	1292	n/a	n/a	n/a	n/a	n/a	n/a
+20073	133	Picture	trial_start	trial_start	n/a	n/a	2216681	0	1	2667	7	0	next	other	0
+20073	133	Sound	2; 45; C; sounds//tower.wav	2	45	C	2217351	670	2	n/a	n/a	670	n/a	incorrect	260
+20073	133	Picture	2; 40; C; pictures//target//Lighthouse.jpg	2	40	C	2219348	2667	7	22834	7	2580	next	miss	0
+20073	133	Response	2	n/a	n/a	n/a	2234563	17881	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	135	Picture	trial_start	trial_start	n/a	n/a	2247348	0	1	667	7	0	next	other	0
+20073	135	Picture	3; 50; No; pictures//target//scissors.jpeg	3	50	No	2248015	667	7	25000	7	580	next	miss	0
+20073	135	Sound	3; 0; No; sounds//empty.wav	3	0	No	2248018	670	2	n/a	n/a	670	n/a	incorrect	264
+20073	135	Response	2	n/a	n/a	n/a	2266861	19513	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	137	Picture	trial_start	trial_start	n/a	n/a	2278182	0	1	667	7	0	next	other	0
+20073	137	Picture	4; 30; P; pictures//target//compass.jpg	4	30	P	2278848	667	7	24834	7	580	next	miss	0
+20073	137	Sound	4; 0; P; sounds//company.wav	4	0	P	2278852	670	2	n/a	n/a	670	n/a	hit	268
+20073	137	Response	11	n/a	n/a	n/a	2292260	14079	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	139	Picture	trial_start	trial_start	n/a	n/a	2308849	0	1	2667	7	0	next	other	0
+20073	139	Sound	5; 45; C; sounds//oat.wav	5	45	C	2309519	670	2	n/a	n/a	670	n/a	hit	272
+20073	139	Picture	5; 40; C; pictures//target//rice.jpg	5	40	C	2311515	2667	7	23667	7	2580	next	miss	0
+20073	139	Response	11	n/a	n/a	n/a	2325840	16991	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	141	Picture	trial_start	trial_start	n/a	n/a	2340349	0	1	2667	7	0	next	other	0
+20073	141	Sound	6; 25; UN_200; sounds//action.wav	6	25	UN_200	2341019	670	1	n/a	n/a	670	n/a	miss	0
+20073	141	Picture	6; 20; UN_200; pictures//nontarget//screw.jpg	6	20	UN_200	2343016	2667	7	23833	7	2580	next	miss	0
+20073	141	Response	2	n/a	n/a	n/a	2365350	25001	1315	n/a	n/a	n/a	n/a	n/a	n/a
+20073	143	Picture	trial_start	trial_start	n/a	n/a	2372016	0	1	2667	7	0	next	other	0
+20073	143	Sound	7; 25; UN_200; sounds//film.wav	7	25	UN_200	2372686	670	2	n/a	n/a	670	n/a	hit	280
+20073	143	Picture	7; 20; UN_200; pictures//target//nose.jpg	7	20	UN_200	2374682	2667	7	23000	7	2580	next	miss	0
+20073	143	Response	11	n/a	n/a	n/a	2385999	13983	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	145	Picture	trial_start	trial_start	n/a	n/a	2402849	0	1	667	7	0	next	other	0
+20073	145	Picture	8; 50; No; pictures//nontarget//bowl.jpeg	8	50	No	2403516	667	7	24834	7	580	next	miss	0
+20073	145	Sound	8; 0; No; sounds//empty.wav	8	0	No	2403519	670	2	n/a	n/a	670	n/a	hit	284
+20073	145	Response	21	n/a	n/a	n/a	2420549	17700	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	147	Picture	trial_start	trial_start	n/a	n/a	2433516	0	1	2667	7	0	next	other	0
+20073	147	Sound	9; 25; UN_200; sounds//math.wav	9	25	UN_200	2434186	670	2	n/a	n/a	670	n/a	incorrect	288
+20073	147	Picture	9; 20; UN_200; pictures//target//glass.jpg	9	20	UN_200	2436183	2667	7	22834	7	2580	next	miss	0
+20073	147	Response	2	n/a	n/a	n/a	2444248	10731	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	149	Picture	trial_start	trial_start	n/a	n/a	2464183	0	1	667	7	0	next	other	0
+20073	149	Picture	10; 10; UN_0; pictures//nontarget//tape.jpg	10	10	UN_0	2464850	667	7	24667	7	580	next	miss	0
+20073	149	Sound	10; 0; UN_0; sounds//chord.wav	10	0	UN_0	2464853	670	2	n/a	n/a	670	n/a	hit	292
+20073	149	Response	21	n/a	n/a	n/a	2478087	13904	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	151	Picture	trial_start	trial_start	n/a	n/a	2494683	0	1	2667	7	0	next	other	0
+20073	151	Sound	11; 25; UN_200; sounds//estate.wav	11	25	UN_200	2495353	670	2	n/a	n/a	670	n/a	hit	296
+20073	151	Picture	11; 20; UN_200; pictures//nontarget//cherry.jpg	11	20	UN_200	2497350	2667	7	23667	7	2580	next	miss	0
+20073	151	Response	21	n/a	n/a	n/a	2506606	11922	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	153	Picture	trial_start	trial_start	n/a	n/a	2526184	0	1	667	7	0	next	other	0
+20073	153	Picture	12; 30; P; pictures//target//horse.jpg	12	30	P	2526850	667	7	26000	7	580	next	miss	0
+20073	153	Sound	12; 0; P; sounds//hormone.wav	12	0	P	2526854	670	2	n/a	n/a	670	n/a	hit	300
+20073	153	Response	11	n/a	n/a	n/a	2538578	12394	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	155	Picture	trial_start	trial_start	n/a	n/a	2558017	0	1	667	7	0	next	other	0
+20073	155	Picture	13; 30; P; pictures//nontarget//Kiwi.jpg	13	30	P	2558684	667	7	24833	7	580	next	miss	0
+20073	155	Sound	13; 0; P; sounds//keynote.wav	13	0	P	2558687	670	2	n/a	n/a	670	n/a	hit	304
+20073	155	Response	21	n/a	n/a	n/a	2570397	12380	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	157	Picture	trial_start	trial_start	n/a	n/a	2588684	0	1	667	7	0	next	other	0
+20073	157	Picture	14; 50; No; pictures//nontarget//chocolate.jpeg	14	50	No	2589351	667	7	31834	7	580	next	miss	0
+20073	157	Sound	14; 0; No; sounds//empty.wav	14	0	No	2589354	670	1	n/a	n/a	670	n/a	hit	308
+20073	157	Response	21	n/a	n/a	n/a	2600994	12310	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	159	Picture	trial_start	trial_start	n/a	n/a	2626351	0	1	667	7	0	next	other	0
+20073	159	Picture	15; 50; No; pictures//target//glasses.jpeg	15	50	No	2627018	667	7	25000	7	580	next	miss	0
+20073	159	Sound	15; 0; No; sounds//empty.wav	15	0	No	2627021	670	2	n/a	n/a	670	n/a	hit	312
+20073	159	Response	11	n/a	n/a	n/a	2644774	18423	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	161	Picture	trial_start	trial_start	n/a	n/a	2657185	0	1	2667	7	0	next	other	0
+20073	161	Sound	16; 25; UN_200; sounds//tab.wav	16	25	UN_200	2657855	670	2	n/a	n/a	670	n/a	hit	316
+20073	161	Picture	16; 20; UN_200; pictures//target//fence.png	16	20	UN_200	2659851	2667	7	26667	7	2580	next	miss	0
+20073	161	Response	11	n/a	n/a	n/a	2670523	13339	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	163	Picture	trial_start	trial_start	n/a	n/a	2691685	0	1	2667	7	0	next	other	0
+20073	163	Sound	17; 25; UN_200; sounds//lawyer.wav	17	25	UN_200	2692355	670	2	n/a	n/a	670	n/a	hit	320
+20073	163	Picture	17; 20; UN_200; pictures//nontarget//ham.jpg	17	20	UN_200	2694351	2667	7	23667	7	2580	next	miss	0
+20073	163	Response	21	n/a	n/a	n/a	2707423	15738	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	165	Picture	trial_start	trial_start	n/a	n/a	2723185	0	1	667	7	0	next	other	0
+20073	165	Picture	18; 10; UN_0; pictures//target//cross.jpg	18	10	UN_0	2723852	667	7	24834	7	580	next	miss	0
+20073	165	Sound	18; 0; UN_0; sounds//award.wav	18	0	UN_0	2723855	670	2	n/a	n/a	670	n/a	hit	324
+20073	165	Response	11	n/a	n/a	n/a	2735602	12417	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	167	Picture	trial_start	trial_start	n/a	n/a	2753852	0	1	667	7	0	next	other	0
+20073	167	Picture	19; 30; P; pictures//nontarget//pump.jpg	19	30	P	2754519	667	7	24667	7	580	next	miss	0
+20073	167	Sound	19; 0; P; sounds//pub.wav	19	0	P	2754522	670	2	n/a	n/a	670	n/a	hit	328
+20073	167	Response	21	n/a	n/a	n/a	2768351	14499	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	169	Picture	trial_start	trial_start	n/a	n/a	2784352	0	1	667	7	0	next	other	0
+20073	169	Picture	20; 50; No; pictures//target//floss.jpeg	20	50	No	2785019	667	7	25000	7	580	next	miss	0
+20073	169	Sound	20; 0; No; sounds//empty.wav	20	0	No	2785022	670	2	n/a	n/a	670	n/a	hit	332
+20073	169	Response	11	n/a	n/a	n/a	2797440	13088	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	171	Picture	trial_start	trial_start	n/a	n/a	2815186	0	1	2667	8	0	next	other	0
+20073	171	Sound	21; 45; C; sounds//cover.wav	21	45	C	2815856	670	2	n/a	n/a	670	n/a	hit	336
+20073	171	Picture	21; 40; C; pictures//nontarget//roof.jpg	21	40	C	2817852	2667	7	23667	7	2580	next	miss	0
+20073	171	Response	21	n/a	n/a	n/a	2828700	13514	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	173	Picture	trial_start	trial_start	n/a	n/a	2846686	0	1	667	7	0	next	other	0
+20073	173	Picture	22; 30; P; pictures//target//Moose.jpg	22	30	P	2847353	667	7	28167	7	580	next	miss	0
+20073	173	Sound	22; 0; P; sounds//mover.wav	22	0	P	2847356	670	1	n/a	n/a	670	n/a	hit	340
+20073	173	Response	11	n/a	n/a	n/a	2858920	12234	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	175	Picture	trial_start	trial_start	n/a	n/a	2880686	0	1	2667	7	0	next	other	0
+20073	175	Sound	23; 45; C; sounds//toad.wav	23	45	C	2881356	670	1	n/a	n/a	670	n/a	miss	0
+20073	175	Picture	23; 40; C; pictures//nontarget//frog.jpg	23	40	C	2883353	2667	7	23000	7	2580	next	miss	0
+20073	176	Response	2	n/a	n/a	n/a	2908268	1915	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	177	Picture	trial_start	trial_start	n/a	n/a	2911520	0	1	667	7	0	next	other	0
+20073	177	Picture	24; 30; P; pictures//nontarget//radish.jpg	24	30	P	2912186	667	7	25333	7	580	next	hit	349
+20073	177	Sound	24; 0; P; sounds//racket.wav	24	0	P	2912190	670	2	n/a	n/a	670	n/a	incorrect	348
+20073	177	Response	1	n/a	n/a	n/a	2926389	14869	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	177	Response	21	n/a	n/a	n/a	2930389	18870	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	177	Response	2	n/a	n/a	n/a	2934889	23370	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	179	Picture	trial_start	trial_start	n/a	n/a	2942687	0	1	667	7	0	next	other	0
+20073	179	Picture	25; 50; No; pictures//nontarget//wood.jpeg	25	50	No	2943353	667	7	25834	7	580	next	miss	0
+20073	179	Sound	25; 0; No; sounds//empty.wav	25	0	No	2943357	670	2	n/a	n/a	670	n/a	hit	354
+20073	179	Response	21	n/a	n/a	n/a	2956608	13922	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	181	Picture	trial_start	trial_start	n/a	n/a	2974353	0	1	667	7	0	next	other	0
+20073	181	Picture	26; 10; UN_0; pictures//nontarget//lightbulb.jpg	26	10	UN_0	2975020	667	7	28667	7	580	next	miss	0
+20073	181	Sound	26; 0; UN_0; sounds//fort.wav	26	0	UN_0	2975024	670	2	n/a	n/a	670	n/a	hit	358
+20073	181	Response	21	n/a	n/a	n/a	2989308	14955	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	183	Picture	trial_start	trial_start	n/a	n/a	3008854	0	1	2667	7	0	next	other	0
+20073	183	Sound	27; 45; C; sounds//link.wav	27	45	C	3009524	670	2	n/a	n/a	670	n/a	hit	362
+20073	183	Picture	27; 40; C; pictures//nontarget//bridge.jpg	27	40	C	3011520	2667	7	23000	7	2580	next	miss	0
+20073	183	Response	21	n/a	n/a	n/a	3021416	12562	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	185	Picture	trial_start	trial_start	n/a	n/a	3039687	0	1	2667	7	0	next	other	0
+20073	185	Sound	28; 45; C; sounds//bag.wav	28	45	C	3040357	670	2	n/a	n/a	670	n/a	hit	366
+20073	185	Picture	28; 40; C; pictures//target//briefcase.png	28	40	C	3042354	2667	7	23833	7	2580	next	miss	0
+20073	185	Response	11	n/a	n/a	n/a	3061927	22239	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	187	Picture	trial_start	trial_start	n/a	n/a	3071354	0	1	667	7	0	next	other	0
+20073	187	Picture	29; 10; UN_0; pictures//target//cactus.jpg	29	10	UN_0	3072021	667	7	25000	7	580	next	miss	0
+20073	187	Sound	29; 0; UN_0; sounds//area.wav	29	0	UN_0	3072024	670	2	n/a	n/a	670	n/a	hit	370
+20073	187	Response	11	n/a	n/a	n/a	3088945	17591	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	189	Picture	trial_start	trial_start	n/a	n/a	3102188	0	1	667	7	0	next	other	0
+20073	189	Picture	30; 10; UN_0; pictures//target//mattress.jpg	30	10	UN_0	3102854	667	7	24500	13	580	next	miss	0
+20073	189	Sound	30; 0; UN_0; sounds//shop.wav	30	0	UN_0	3102858	670	2	n/a	n/a	670	n/a	hit	374
+20073	189	Response	11	n/a	n/a	n/a	3113914	11726	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	190	Picture	0;222;blockend	0	222	blockend	3127355	0	7	167	13	0	next	other	0
+20073	191	Picture	0;111;blockstart	0	111	blockstart	3127521	0	7	167	7	0	next	other	0
+20073	192	Picture	block_tar_pic	block_tar_pic	n/a	n/a	3127688	0	1	50334	1	0	next	other	0
+20073	192	Sound	block_tar_sound	block_tar_sound	n/a	n/a	3127694	6	1	n/a	n/a	0	n/a	other	0
+20073	194	Picture	trial_start	trial_start	n/a	n/a	3183188	0	1	667	7	0	next	other	0
+20073	194	Picture	1; 50; No; pictures//target//whale.jpeg	1	50	No	3183855	667	7	26667	7	580	next	miss	0
+20073	194	Sound	1; 0; No; sounds//empty.wav	1	0	No	3183858	670	2	n/a	n/a	670	n/a	hit	382
+20073	194	Response	11	n/a	n/a	n/a	3199083	15895	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	196	Picture	trial_start	trial_start	n/a	n/a	3215689	0	1	2667	7	0	next	other	0
+20073	196	Sound	2; 45; C; sounds//lever.wav	2	45	C	3216359	670	1	n/a	n/a	670	n/a	hit	386
+20073	196	Picture	2; 40; C; pictures//nontarget//doorknob.jpeg	2	40	C	3218355	2667	7	22833	7	2580	next	miss	0
+20073	196	Response	21	n/a	n/a	n/a	3235553	19865	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	198	Picture	trial_start	trial_start	n/a	n/a	3246355	0	1	667	7	0	next	other	0
+20073	198	Picture	3; 10; UN_0; pictures//nontarget//pillow.jpg	3	10	UN_0	3247022	667	7	25834	7	580	next	miss	0
+20073	198	Sound	3; 0; UN_0; sounds//beauty.wav	3	0	UN_0	3247025	670	2	n/a	n/a	670	n/a	hit	390
+20073	198	Response	21	n/a	n/a	n/a	3266772	20417	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	200	Picture	trial_start	trial_start	n/a	n/a	3278022	0	1	667	7	0	next	other	0
+20073	200	Picture	4; 30; P; pictures//target//camel.jpg	4	30	P	3278689	667	7	26000	7	580	next	miss	0
+20073	200	Sound	4; 0; P; sounds//calorie.wav	4	0	P	3278693	670	2	n/a	n/a	670	n/a	hit	394
+20073	200	Response	11	n/a	n/a	n/a	3302291	24269	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	202	Picture	trial_start	trial_start	n/a	n/a	3309856	0	1	2667	7	0	next	other	0
+20073	202	Sound	5; 25; UN_200; sounds//dream.wav	5	25	UN_200	3310526	670	2	n/a	n/a	670	n/a	incorrect	398
+20073	202	Picture	5; 20; UN_200; pictures//target//barrel.jpg	5	20	UN_200	3312523	2667	7	23667	7	2580	next	miss	0
+20073	202	Response	2	n/a	n/a	n/a	3333320	23464	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	204	Picture	trial_start	trial_start	n/a	n/a	3341356	0	1	667	7	0	next	other	0
+20073	204	Picture	6; 10; UN_0; pictures//nontarget//umbrella.jpg	6	10	UN_0	3342023	667	7	24667	7	580	next	miss	0
+20073	204	Sound	6; 0; UN_0; sounds//creek.wav	6	0	UN_0	3342026	670	2	n/a	n/a	670	n/a	hit	402
+20073	204	Response	21	n/a	n/a	n/a	3361171	19814	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	206	Picture	trial_start	trial_start	n/a	n/a	3371856	0	1	667	7	0	next	other	0
+20073	206	Picture	7; 50; No; pictures//nontarget//backpack.jpeg	7	50	No	3372523	667	7	26000	7	580	next	miss	0
+20073	206	Sound	7; 0; No; sounds//empty.wav	7	0	No	3372527	670	1	n/a	n/a	670	n/a	hit	406
+20073	206	Response	21	n/a	n/a	n/a	3384740	12884	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	208	Picture	trial_start	trial_start	n/a	n/a	3403690	0	1	2667	7	0	next	other	0
+20073	208	Sound	8; 25; UN_200; sounds//dinner.wav	8	25	UN_200	3404360	670	2	n/a	n/a	670	n/a	hit	410
+20073	208	Picture	8; 20; UN_200; pictures//nontarget//Knee.jpg	8	20	UN_200	3406357	2667	7	23000	7	2580	next	miss	0
+20073	208	Response	21	n/a	n/a	n/a	3417569	13879	2	n/a	n/a	n/a	n/a	n/a	n/a
+20073	210	Picture	trial_start	trial_start	n/a	n/a	3434524	0	1	667	7	0	next	other	0
+20073	210	Picture	9; 10; UN_0; pictures//target//cereal.jpg	9	10	UN_0	3435190	667	7	25000	7	580	next	miss	0
+20073	210	Sound	9; 0; UN_0; sounds//answer.wav	9	0	UN_0	3435194	670	2	n/a	n/a	670	n/a	hit	414
+20073	210	Response	11	n/a	n/a	n/a	3453118	18595	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	212	Picture	trial_start	trial_start	n/a	n/a	3465357	0	1	667	7	0	next	other	0
+20073	212	Picture	10; 50; No; pictures//nontarget//closet.jpeg	10	50	No	3466024	667	7	25833	7	580	next	miss	0
+20073	212	Sound	10; 0; No; sounds//empty.wav	10	0	No	3466027	670	2	n/a	n/a	670	n/a	hit	418
+20073	212	Response	21	n/a	n/a	n/a	3484527	19170	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	214	Picture	trial_start	trial_start	n/a	n/a	3497024	0	1	667	7	0	next	other	0
+20073	214	Picture	11; 30; P; pictures//nontarget//scarf.jpg	11	30	P	3497691	667	7	24834	7	580	next	miss	0
+20073	214	Sound	11; 0; P; sounds//scholar.wav	11	0	P	3497694	670	2	n/a	n/a	670	n/a	hit	422
+20073	214	Response	21	n/a	n/a	n/a	3507517	10493	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	216	Picture	trial_start	trial_start	n/a	n/a	3527691	0	1	2667	7	0	next	other	0
+20073	216	Sound	12; 45; C; sounds//tube.wav	12	45	C	3528361	670	2	n/a	n/a	670	n/a	hit	426
+20073	216	Picture	12; 40; C; pictures//target//funnel.jpg	12	40	C	3530358	2667	7	23500	7	2580	next	miss	0
+20073	216	Response	11	n/a	n/a	n/a	3545226	17535	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	218	Picture	trial_start	trial_start	n/a	n/a	3559024	0	1	2667	7	0	next	other	0
+20073	218	Sound	13; 45; C; sounds//flame.wav	13	45	C	3559694	670	1	n/a	n/a	670	n/a	hit	430
+20073	218	Picture	13; 40; C; pictures//nontarget//match.jpg	13	40	C	3561691	2667	7	24000	7	2580	next	miss	0
+20073	218	Response	21	n/a	n/a	n/a	3575045	16021	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	220	Picture	trial_start	trial_start	n/a	n/a	3590858	0	1	2667	7	0	next	other	0
+20073	220	Sound	14; 45; C; sounds//parrot.wav	14	45	C	3591528	670	1	n/a	n/a	670	n/a	hit	434
+20073	220	Picture	14; 40; C; pictures//target//owl.jpg	14	40	C	3593525	2667	7	22833	7	2580	next	miss	0
+20073	220	Response	11	n/a	n/a	n/a	3606985	16127	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	222	Picture	trial_start	trial_start	n/a	n/a	3621525	0	1	667	7	0	next	other	0
+20073	222	Picture	15; 10; UN_0; pictures//target//eagle.jpg	15	10	UN_0	3622192	667	7	25667	7	580	next	miss	0
+20073	222	Sound	15; 0; UN_0; sounds//core.wav	15	0	UN_0	3622195	670	2	n/a	n/a	670	n/a	hit	438
+20073	222	Response	11	n/a	n/a	n/a	3635964	14439	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	224	Picture	trial_start	trial_start	n/a	n/a	3653025	0	1	2667	7	0	next	other	0
+20073	224	Sound	16; 25; UN_200; sounds//verdict.wav	16	25	UN_200	3653695	670	2	n/a	n/a	670	n/a	hit	442
+20073	224	Picture	16; 20; UN_200; pictures//nontarget//banana.jpg	16	20	UN_200	3655692	2667	7	23833	7	2580	next	miss	0
+20073	224	Response	21	n/a	n/a	n/a	3664124	11099	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	226	Picture	trial_start	trial_start	n/a	n/a	3684692	0	1	2667	7	0	next	other	0
+20073	226	Sound	17; 25; UN_200; sounds//sugar.wav	17	25	UN_200	3685362	670	2	n/a	n/a	670	n/a	miss	0
+20073	226	Picture	17; 20; UN_200; pictures//target//Stool.jpg	17	20	UN_200	3687359	2667	7	23667	7	2580	next	miss	0
+20073	228	Picture	trial_start	trial_start	n/a	n/a	3716192	0	1	667	7	0	next	other	0
+20073	228	Picture	18; 30; P; pictures//nontarget//celery.jpg	18	30	P	3716859	667	7	24667	7	580	next	miss	0
+20073	228	Sound	18; 0; P; sounds//seller.wav	18	0	P	3716862	670	2	n/a	n/a	670	n/a	hit	449
+20073	228	Response	21	n/a	n/a	n/a	3730222	14030	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	230	Picture	trial_start	trial_start	n/a	n/a	3746692	0	1	667	7	0	next	other	0
+20073	230	Picture	19; 50; No; pictures//target//pedal.jpeg	19	50	No	3747359	667	7	24833	7	580	next	miss	0
+20073	230	Sound	19; 0; No; sounds//empty.wav	19	0	No	3747362	670	3	n/a	n/a	670	n/a	hit	453
+20073	230	Response	11	n/a	n/a	n/a	3763092	16399	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	232	Picture	trial_start	trial_start	n/a	n/a	3777359	0	1	2667	7	0	next	other	0
+20073	232	Sound	20; 25; UN_200; sounds//frame.wav	20	25	UN_200	3778029	670	1	n/a	n/a	670	n/a	miss	0
+20073	232	Picture	20; 20; UN_200; pictures//target//shovel.png	20	20	UN_200	3780026	2667	7	23667	7	2580	next	miss	0
+20073	234	Picture	trial_start	trial_start	n/a	n/a	3808860	0	1	2667	7	0	next	other	0
+20073	234	Sound	21; 45; C; sounds//ostrich.wav	21	45	C	3809530	670	2	n/a	n/a	670	n/a	hit	460
+20073	234	Picture	21; 40; C; pictures//nontarget//flamingo.jpg	21	40	C	3811526	2667	7	23667	7	2580	next	miss	0
+20073	234	Response	21	n/a	n/a	n/a	3822771	13911	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	236	Picture	trial_start	trial_start	n/a	n/a	3840360	0	1	667	7	0	next	other	0
+20073	236	Picture	22; 10; UN_0; pictures//nontarget//telescope.jpg	22	10	UN_0	3841026	667	7	24833	7	580	next	miss	0
+20073	236	Sound	22; 0; UN_0; sounds//merit.wav	22	0	UN_0	3841030	670	2	n/a	n/a	670	n/a	hit	464
+20073	236	Response	21	n/a	n/a	n/a	3855900	15540	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	238	Picture	trial_start	trial_start	n/a	n/a	3871027	0	1	667	7	0	next	other	0
+20073	238	Picture	23; 10; UN_0; pictures//target//snail.jpg	23	10	UN_0	3871693	667	7	27834	7	580	next	miss	0
+20073	238	Sound	23; 0; UN_0; sounds//chime.wav	23	0	UN_0	3871697	670	2	n/a	n/a	670	n/a	hit	468
+20073	238	Response	11	n/a	n/a	n/a	3880819	9792	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	240	Picture	trial_start	trial_start	n/a	n/a	3904694	0	1	667	7	0	next	other	0
+20073	240	Picture	24; 50; No; pictures//nontarget//crane.jpeg	24	50	No	3905360	667	7	25000	7	580	next	miss	0
+20073	240	Sound	24; 0; No; sounds//empty.wav	24	0	No	3905364	670	2	n/a	n/a	670	n/a	hit	472
+20073	240	Response	21	n/a	n/a	n/a	3925758	21065	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	242	Picture	trial_start	trial_start	n/a	n/a	3935527	0	1	2667	7	0	next	other	0
+20073	242	Sound	25; 45; C; sounds//wipe.wav	25	45	C	3936197	670	2	n/a	n/a	670	n/a	hit	476
+20073	242	Picture	25; 40; C; pictures//target//towel.jpg	25	40	C	3938194	2667	7	23167	7	2580	next	miss	0
+20073	242	Response	11	n/a	n/a	n/a	3946958	11431	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	244	Picture	trial_start	trial_start	n/a	n/a	3966527	0	1	667	7	0	next	other	0
+20073	244	Picture	26; 30; P; pictures//target//apple.jpg	26	30	P	3967194	667	7	28667	7	580	next	miss	0
+20073	244	Sound	26; 0; P; sounds//apathy.wav	26	0	P	3967197	670	1	n/a	n/a	670	n/a	hit	480
+20073	244	Response	11	n/a	n/a	n/a	3977458	10931	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	246	Picture	trial_start	trial_start	n/a	n/a	4001028	0	1	2667	7	0	next	other	0
+20073	246	Sound	27; 25; UN_200; sounds//default.wav	27	25	UN_200	4001698	670	1	n/a	n/a	670	n/a	hit	484
+20073	246	Picture	27; 20; UN_200; pictures//nontarget//lightning.jpg	27	20	UN_200	4003694	2667	7	22834	7	2580	next	miss	0
+20073	246	Response	21	n/a	n/a	n/a	4014807	13779	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	248	Picture	trial_start	trial_start	n/a	n/a	4031695	0	1	667	7	0	next	other	0
+20073	248	Picture	28; 30; P; pictures//target//pill.jpg	28	30	P	4032361	667	7	27000	7	580	next	miss	0
+20073	248	Sound	28; 0; P; sounds//pilgrim.wav	28	0	P	4032365	670	2	n/a	n/a	670	n/a	hit	488
+20073	248	Response	11	n/a	n/a	n/a	4043616	11921	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	250	Picture	trial_start	trial_start	n/a	n/a	4064528	0	1	667	7	0	next	other	0
+20073	250	Picture	29; 50; No; pictures//target//whistle.jpeg	29	50	No	4065195	667	7	24834	7	580	next	miss	0
+20073	250	Sound	29; 0; No; sounds//empty.wav	29	0	No	4065198	670	2	n/a	n/a	670	n/a	hit	492
+20073	250	Response	11	n/a	n/a	n/a	4080176	15647	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	252	Picture	trial_start	trial_start	n/a	n/a	4095195	0	1	667	7	0	next	other	0
+20073	252	Picture	30; 30; P; pictures//nontarget//saw.jpg	30	30	P	4095862	667	7	24500	13	580	next	miss	0
+20073	252	Sound	30; 0; P; sounds//sausage.wav	30	0	P	4095865	670	2	n/a	n/a	670	n/a	hit	496
+20073	252	Response	21	n/a	n/a	n/a	4107626	12430	1	n/a	n/a	n/a	n/a	n/a	n/a
+20073	253	Picture	0;222;blockend	0	222	blockend	4120362	0	7	167	13	0	next	other	0
+20073	254	Picture	1; run1_end	1	run1_end	n/a	4120528	0	7	2719643	7	0	next	other	0
+20073	254	Response	0	n/a	n/a	n/a	6832936	2712408	1	n/a	n/a	n/a	n/a	n/a	n/a
+n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	n/a	n/a	n/a	n/a
+n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+Picture	0;11;localize	other	n/a	n/a	n/a	-1	1	159334	7	0	next	n/a	n/a	n/a	n/a
+Picture	0;111;blockstart	other	n/a	n/a	n/a	159333	7	167	7	0	next	n/a	n/a	n/a	n/a
+Picture	block_tar_pic	other	n/a	n/a	n/a	159500	1	50500	1	0	next	n/a	n/a	n/a	n/a
+Sound	block_tar_sound	other	n/a	n/a	n/a	159530	251	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	215167	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	1; 0; No; sounds//empty.wav	hit	3	18015	2	215837	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	1; 50; No; pictures//nontarget//vest.jpeg	miss	n/a	n/a	n/a	215834	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	245834	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	2; 0; P; sounds//panel.wav	hit	3	14357	2	246504	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	2; 30; P; pictures//nontarget//panda.jpg	miss	n/a	n/a	n/a	246500	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	276667	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	3; 45; C; sounds//bread.wav	hit	3	16264	2	277337	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	3; 40; C; pictures//nontarget//pizza.jpg	miss	n/a	n/a	n/a	279334	7	23500	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	308001	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	4; 0; P; sounds//forces.wav	hit	2	13648	2	308671	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	4; 30; P; pictures//target//fork.jpg	miss	n/a	n/a	n/a	308668	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	338835	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	5; 0; UN_0; sounds//seed.wav	hit	3	15575	2	339505	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	5; 10; UN_0; pictures//nontarget//monkey.jpeg	miss	n/a	n/a	n/a	339501	7	27667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	372335	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	6; 0; No; sounds//empty.wav	hit	3	17054	2	373005	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	6; 50; No; pictures//nontarget//film.jpeg	miss	n/a	n/a	n/a	373001	7	24833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	403002	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	7; 0; UN_0; sounds//needle.wav	hit	2	14976	2	403672	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	7; 10; UN_0; pictures//target//ink.jpg	miss	n/a	n/a	n/a	403668	7	25667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	434502	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	8; 0; UN_0; sounds//tear.wav	hit	3	14025	2	435172	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	8; 10; UN_0; pictures//nontarget//bowtie.jpeg	miss	n/a	n/a	n/a	435168	7	25667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	466002	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	9; 0; UN_0; sounds//prison.wav	hit	2	14264	2	466672	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	9; 10; UN_0; pictures//target//lipstick.jpg	miss	n/a	n/a	n/a	466669	7	24667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	496502	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	10; 0; P; sounds//choice.wav	hit	2	10624	2	497172	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	10; 30; P; pictures//target//chalk.jpg	miss	n/a	n/a	n/a	497169	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	527169	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	11; 45; C; sounds//seat.wav	hit	3	19645	2	527839	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	11; 40; C; pictures//nontarget//bench.jpg	miss	n/a	n/a	n/a	529836	7	23000	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	558003	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	12; 25; UN_200; sounds//people.wav	hit	2	11692	2	558673	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	12; 20; UN_200; pictures//target//steak.jpg	miss	n/a	n/a	n/a	560669	7	22834	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	588670	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	13; 25; UN_200; sounds//freedom.wav	hit	3	20916	2	589340	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	13; 20; UN_200; pictures//nontarget//worm.png	miss	n/a	n/a	n/a	591336	7	22667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	619170	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	14; 0; No; sounds//empty.wav	hit	3	13263	2	619840	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	14; 50; No; pictures//nontarget//giraffe.jpeg	miss	n/a	n/a	n/a	619836	7	27834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	652837	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	15; 0; No; sounds//empty.wav	hit	2	10387	2	653507	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	15; 50; No; pictures//target//sink.jpeg	miss	n/a	n/a	n/a	653503	7	25834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	684504	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	16; 45; C; sounds//pamphlet.wav	hit	2	11970	2	685174	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	16; 40; C; pictures//target//book.jpg	miss	n/a	n/a	n/a	687170	7	22833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	715171	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	17; 45; C; sounds//pear.wav	hit	3	11731	2	715841	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	17; 40; C; pictures//nontarget//avocado.jpg	miss	n/a	n/a	n/a	717837	7	23167	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	746171	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	18; 0; UN_0; sounds//budget.wav	hit	2	16910	2	746841	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	18; 10; UN_0; pictures//target//milk.jpg	miss	n/a	n/a	n/a	746837	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	776838	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	19; 25; UN_200; sounds//sacrifice.wav	hit	3	18204	2	777508	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	19; 20; UN_200; pictures//nontarget//olive.jpg	miss	n/a	n/a	n/a	779504	7	23833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	808504	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	20; 0; P; sounds//duchess.wav	hit	2	17195	2	809174	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	20; 30; P; pictures//target//duck.jpg	miss	n/a	n/a	n/a	809171	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	839171	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	21; 0; UN_0; sounds//tax.wav	hit	3	19858	2	839841	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	21; 10; UN_0; pictures//nontarget//cave.jpg	miss	n/a	n/a	n/a	839838	7	25167	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	870172	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	22; 0; No; sounds//empty.wav	hit	2	21018	2	870842	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	22; 50; No; pictures//target//cake.jpeg	miss	n/a	n/a	n/a	870838	7	24667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	900672	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	23; 0; No; sounds//empty.wav	hit	2	14586	2	901342	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	23; 50; No; pictures//target//pancake.jpeg	miss	n/a	n/a	n/a	901339	7	25667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	932172	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	24; 45; C; sounds//whale.wav	hit	2	15916	2	932842	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	24; 40; C; pictures//target//shark.jpg	miss	n/a	n/a	n/a	934839	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	963672	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	25; 0; P; sounds//bone.wav	hit	3	13585	2	964342	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	25; 30; P; pictures//nontarget//Bow.jpg	miss	n/a	n/a	n/a	964339	7	24833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	994339	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	26; 0; P; sounds//jazz.wav	hit	3	19928	2	995009	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	26; 30; P; pictures//nontarget//jam.png	miss	n/a	n/a	n/a	995006	7	25834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1026006	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	27; 45; C; sounds//pie.wav	hit	2	15829	2	1026676	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	27; 40; C; pictures//target//cupcake.jpg	miss	n/a	n/a	n/a	1028673	7	22834	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1056673	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	28; 25; UN_200; sounds//speed.wav	hit	2	13393	2	1057343	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	28; 20; UN_200; pictures//target//bank.jpg	miss	n/a	n/a	n/a	1059340	7	22833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1087340	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	29; 25; UN_200; sounds//memory.wav	hit	3	12495	2	1088010	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	29; 20; UN_200; pictures//nontarget//lasangna.jpg	miss	n/a	n/a	n/a	1090007	7	22834	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1118007	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	30; 25; UN_200; sounds//city.wav	hit	2	16777	2	1118677	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	30; 20; UN_200; pictures//target//neck.png	miss	n/a	n/a	n/a	1120674	7	22500	13	2580	next	n/a	n/a	n/a	n/a
+Picture	0;222;blockend	other	n/a	n/a	n/a	1143174	7	333	13	0	next	n/a	n/a	n/a	n/a
+Picture	0;111;blockstart	other	n/a	n/a	n/a	1143507	7	167	7	0	next	n/a	n/a	n/a	n/a
+Picture	block_tar_pic	other	n/a	n/a	n/a	1143674	1	50667	1	0	next	n/a	n/a	n/a	n/a
+Sound	block_tar_sound	other	n/a	n/a	n/a	1143680	1	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1199507	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	1; 0; UN_0; sounds//survey.wav	hit	3	15333	4	1200177	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	1; 10; UN_0; pictures//nontarget//bamboo.jpg	miss	n/a	n/a	n/a	1200174	7	25667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1231008	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	2; 25; UN_200; sounds//lung.wav	miss	n/a	n/a	n/a	1231678	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	2; 20; UN_200; pictures//nontarget//microscope.jpg	miss	n/a	n/a	n/a	1233674	7	22833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1261674	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	3; 45; C; sounds//veil.wav	hit	2	11108	2	1262344	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	3; 40; C; pictures//target//mask.jpeg	miss	n/a	n/a	n/a	1264341	7	24000	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1293508	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	4; 0; P; sounds//mile.wav	hit	3	11213	2	1294178	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	4; 30; P; pictures//nontarget//microwave.jpg	miss	n/a	n/a	n/a	1294175	7	25834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1325175	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	5; 0; P; sounds//peace.wav	hit	2	9576	2	1325845	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	5; 30; P; pictures//target//peacock.jpg	miss	n/a	n/a	n/a	1325842	7	25834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1356842	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	6; 0; UN_0; sounds//promise.wav	hit	2	9988	2	1357512	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	6; 10; UN_0; pictures//target//brick.jpg	miss	n/a	n/a	n/a	1357508	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1387509	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	7; 25; UN_200; sounds//cell.wav	hit	2	17010	2	1388179	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	7; 20; UN_200; pictures//target//lock.jpg	miss	n/a	n/a	n/a	1390175	7	22667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1418009	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	8; 0; No; sounds//empty.wav	hit	3	18580	2	1418679	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	8; 50; No; pictures//nontarget//seatbelt.jpeg	miss	n/a	n/a	n/a	1418676	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1448842	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	9; 0; No; sounds//empty.wav	hit	2	15654	2	1449512	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	9; 50; No; pictures//target//hook.jpeg	miss	n/a	n/a	n/a	1449509	7	24833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1479509	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	10; 45; C; sounds//beetle.wav	hit	3	17918	2	1480179	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	10; 40; C; pictures//nontarget//fly.jpg	miss	n/a	n/a	n/a	1482176	7	22834	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1510176	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	11; 25; UN_200; sounds//poetry.wav	hit	2	14490	2	1510846	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	11; 20; UN_200; pictures//target//truck.jpg	miss	n/a	n/a	n/a	1512843	7	23833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1541843	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	12; 0; P; sounds//garden.wav	hit	2	19983	2	1542513	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	12; 30; P; pictures//target//garlic.jpg	miss	n/a	n/a	n/a	1542510	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1572510	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	13; 0; UN_0; sounds//gown.wav	incorrect	3	21274	2	1573180	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	13; 10; UN_0; pictures//target//tank.jpg	miss	n/a	n/a	n/a	1573177	7	24833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1603177	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	14; 0; UN_0; sounds//phrase.wav	miss	n/a	n/a	n/a	1603847	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	14; 10; UN_0; pictures//nontarget//cage.jpeg	miss	n/a	n/a	n/a	1603844	7	25833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1634844	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	15; 0; P; sounds//closet.wav	hit	2	13010	2	1635514	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	15; 30; P; pictures//target//clock.jpg	miss	n/a	n/a	n/a	1635511	7	24667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1665344	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	16; 0; No; sounds//empty.wav	hit	2	19909	2	1666014	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	16; 50; No; pictures//target//toothpick.jpeg	miss	n/a	n/a	n/a	1666011	7	24833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1696011	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	17; 45; C; sounds//table.wav	incorrect	3	13271	2	1696681	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	17; 40; C; pictures//target//desk.jpg	miss	n/a	n/a	n/a	1698678	7	22667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1726511	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	18; 25; UN_200; sounds//blood.wav	miss	n/a	n/a	n/a	1727181	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	18; 20; UN_200; pictures//nontarget//stamp.jpg	miss	n/a	n/a	n/a	1729178	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1758011	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	19; 45; C; sounds//lizard.wav	hit	2	18090	2	1758681	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	19; 40; C; pictures//target//snake.jpg	miss	n/a	n/a	n/a	1760678	7	24834	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1790678	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	20; 0; P; sounds//winner.wav	hit	3	12592	2	1791348	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	20; 30; P; pictures//nontarget//wing.png	miss	n/a	n/a	n/a	1791345	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1821512	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	21; 25; UN_200; sounds//glimpse.wav	hit	3	12877	2	1822182	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	21; 20; UN_200; pictures//nontarget//mango.jpg	miss	n/a	n/a	n/a	1824179	7	22667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1852012	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	22; 0; No; sounds//empty.wav	hit	3	16426	2	1852682	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	22; 50; No; pictures//nontarget//mouth.jpeg	miss	n/a	n/a	n/a	1852679	7	25167	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1883012	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	23; 0; P; sounds//labor.wav	hit	3	13506	2	1883682	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	23; 30; P; pictures//nontarget//Ladybug.jpg	miss	n/a	n/a	n/a	1883679	7	25834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1914679	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	24; 25; UN_200; sounds//orange.wav	hit	2	17029	2	1915349	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	24; 20; UN_200; pictures//target//skunk.jpg	miss	n/a	n/a	n/a	1917346	7	24000	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1946513	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	25; 0; UN_0; sounds//dirt.wav	hit	3	11545	2	1947183	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	25; 10; UN_0; pictures//nontarget//Sushi.jpg	miss	n/a	n/a	n/a	1947179	7	24667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	1977013	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	26; 0; No; sounds//empty.wav	hit	2	11504	2	1977683	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	26; 50; No; pictures//target//whisk.jpeg	miss	n/a	n/a	n/a	1977680	7	24667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2007513	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	27; 45; C; sounds//lobster.wav	hit	3	15223	2	2008183	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	27; 40; C; pictures//nontarget//shrimp.png	miss	n/a	n/a	n/a	2010180	7	23834	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2039180	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	28; 45; C; sounds//charger.wav	hit	3	18205	2	2039850	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	28; 40; C; pictures//nontarget//battery.jpg	miss	n/a	n/a	n/a	2041847	7	23833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2070847	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	29; 0; UN_0; sounds//belly.wav	hit	2	14388	2	2071517	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	29; 10; UN_0; pictures//target//smoke.jpg	miss	n/a	n/a	n/a	2071514	7	26834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2103514	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	30; 0; No; sounds//empty.wav	hit	3	10990	2	2104184	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	30; 50; No; pictures//nontarget//shower.jpeg	miss	n/a	n/a	n/a	2104181	7	24500	13	580	next	n/a	n/a	n/a	n/a
+Picture	0;222;blockend	other	n/a	n/a	n/a	2128681	7	333	13	0	next	n/a	n/a	n/a	n/a
+Picture	0;111;blockstart	other	n/a	n/a	n/a	2129014	7	167	7	0	next	n/a	n/a	n/a	n/a
+Picture	block_tar_pic	other	n/a	n/a	n/a	2129181	1	50834	1	0	next	n/a	n/a	n/a	n/a
+Sound	block_tar_sound	other	n/a	n/a	n/a	2129187	1	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2185181	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	1; 0; UN_0; sounds//purple.wav	miss	n/a	n/a	n/a	2185851	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	1; 10; UN_0; pictures//nontarget//airbag.jpg	miss	n/a	n/a	n/a	2185848	7	25667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2216681	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	2; 45; C; sounds//tower.wav	incorrect	3	17211	2	2217351	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	2; 40; C; pictures//target//Lighthouse.jpg	miss	n/a	n/a	n/a	2219348	7	22834	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2247348	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	3; 0; No; sounds//empty.wav	incorrect	3	18843	2	2248018	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	3; 50; No; pictures//target//scissors.jpeg	miss	n/a	n/a	n/a	2248015	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2278182	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	4; 0; P; sounds//company.wav	hit	2	13409	2	2278852	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	4; 30; P; pictures//target//compass.jpg	miss	n/a	n/a	n/a	2278848	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2308849	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	5; 45; C; sounds//oat.wav	hit	2	16321	2	2309519	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	5; 40; C; pictures//target//rice.jpg	miss	n/a	n/a	n/a	2311515	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2340349	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	6; 25; UN_200; sounds//action.wav	miss	n/a	n/a	n/a	2341019	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	6; 20; UN_200; pictures//nontarget//screw.jpg	miss	n/a	n/a	n/a	2343016	7	23833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2372016	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	7; 25; UN_200; sounds//film.wav	hit	2	13313	2	2372686	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	7; 20; UN_200; pictures//target//nose.jpg	miss	n/a	n/a	n/a	2374682	7	23000	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2402849	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	8; 0; No; sounds//empty.wav	hit	3	17030	2	2403519	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	8; 50; No; pictures//nontarget//bowl.jpeg	miss	n/a	n/a	n/a	2403516	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2433516	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	9; 25; UN_200; sounds//math.wav	incorrect	3	10061	2	2434186	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	9; 20; UN_200; pictures//target//glass.jpg	miss	n/a	n/a	n/a	2436183	7	22834	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2464183	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	10; 0; UN_0; sounds//chord.wav	hit	3	13234	2	2464853	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	10; 10; UN_0; pictures//nontarget//tape.jpg	miss	n/a	n/a	n/a	2464850	7	24667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2494683	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	11; 25; UN_200; sounds//estate.wav	hit	3	11252	2	2495353	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	11; 20; UN_200; pictures//nontarget//cherry.jpg	miss	n/a	n/a	n/a	2497350	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2526184	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	12; 0; P; sounds//hormone.wav	hit	2	11724	2	2526854	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	12; 30; P; pictures//target//horse.jpg	miss	n/a	n/a	n/a	2526850	7	26000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2558017	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	13; 0; P; sounds//keynote.wav	hit	3	11710	2	2558687	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	13; 30; P; pictures//nontarget//Kiwi.jpg	miss	n/a	n/a	n/a	2558684	7	24833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2588684	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	14; 0; No; sounds//empty.wav	hit	3	11640	2	2589354	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	14; 50; No; pictures//nontarget//chocolate.jpeg	miss	n/a	n/a	n/a	2589351	7	31834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2626351	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	15; 0; No; sounds//empty.wav	hit	2	17753	2	2627021	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	15; 50; No; pictures//target//glasses.jpeg	miss	n/a	n/a	n/a	2627018	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2657185	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	16; 25; UN_200; sounds//tab.wav	hit	2	12669	2	2657855	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	16; 20; UN_200; pictures//target//fence.png	miss	n/a	n/a	n/a	2659851	7	26667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2691685	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	17; 25; UN_200; sounds//lawyer.wav	hit	3	15068	2	2692355	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	17; 20; UN_200; pictures//nontarget//ham.jpg	miss	n/a	n/a	n/a	2694351	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2723185	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	18; 0; UN_0; sounds//award.wav	hit	2	11747	2	2723855	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	18; 10; UN_0; pictures//target//cross.jpg	miss	n/a	n/a	n/a	2723852	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2753852	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	19; 0; P; sounds//pub.wav	hit	3	13829	2	2754522	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	19; 30; P; pictures//nontarget//pump.jpg	miss	n/a	n/a	n/a	2754519	7	24667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2784352	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	20; 0; No; sounds//empty.wav	hit	2	12418	2	2785022	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	20; 50; No; pictures//target//floss.jpeg	miss	n/a	n/a	n/a	2785019	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2815186	1	2667	8	0	next	n/a	n/a	n/a	n/a
+Sound	21; 45; C; sounds//cover.wav	hit	3	12844	2	2815856	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	21; 40; C; pictures//nontarget//roof.jpg	miss	n/a	n/a	n/a	2817852	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2846686	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	22; 0; P; sounds//mover.wav	hit	2	11564	2	2847356	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	22; 30; P; pictures//target//Moose.jpg	miss	n/a	n/a	n/a	2847353	7	28167	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2880686	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	23; 45; C; sounds//toad.wav	miss	n/a	n/a	n/a	2881356	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	23; 40; C; pictures//nontarget//frog.jpg	miss	n/a	n/a	n/a	2883353	7	23000	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2911520	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	24; 0; P; sounds//racket.wav	incorrect	2	14199	2	2912190	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	24; 30; P; pictures//nontarget//radish.jpg	hit	3	18203	7	2912186	7	25333	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2942687	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	25; 0; No; sounds//empty.wav	hit	3	13252	2	2943357	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	25; 50; No; pictures//nontarget//wood.jpeg	miss	n/a	n/a	n/a	2943353	7	25834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	2974353	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	26; 0; UN_0; sounds//fort.wav	hit	3	14285	2	2975024	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	26; 10; UN_0; pictures//nontarget//lightbulb.jpg	miss	n/a	n/a	n/a	2975020	7	28667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3008854	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	27; 45; C; sounds//link.wav	hit	3	11892	2	3009524	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	27; 40; C; pictures//nontarget//bridge.jpg	miss	n/a	n/a	n/a	3011520	7	23000	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3039687	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	28; 45; C; sounds//bag.wav	hit	2	21569	2	3040357	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	28; 40; C; pictures//target//briefcase.png	miss	n/a	n/a	n/a	3042354	7	23833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3071354	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	29; 0; UN_0; sounds//area.wav	hit	2	16921	2	3072024	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	29; 10; UN_0; pictures//target//cactus.jpg	miss	n/a	n/a	n/a	3072021	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3102188	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	30; 0; UN_0; sounds//shop.wav	hit	2	11056	2	3102858	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	30; 10; UN_0; pictures//target//mattress.jpg	miss	n/a	n/a	n/a	3102854	7	24500	13	580	next	n/a	n/a	n/a	n/a
+Picture	0;222;blockend	other	n/a	n/a	n/a	3127355	7	167	13	0	next	n/a	n/a	n/a	n/a
+Picture	0;111;blockstart	other	n/a	n/a	n/a	3127521	7	167	7	0	next	n/a	n/a	n/a	n/a
+Picture	block_tar_pic	other	n/a	n/a	n/a	3127688	1	50334	1	0	next	n/a	n/a	n/a	n/a
+Sound	block_tar_sound	other	n/a	n/a	n/a	3127694	1	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3183188	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	1; 0; No; sounds//empty.wav	hit	2	15225	2	3183858	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	1; 50; No; pictures//target//whale.jpeg	miss	n/a	n/a	n/a	3183855	7	26667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3215689	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	2; 45; C; sounds//lever.wav	hit	3	19195	2	3216359	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	2; 40; C; pictures//nontarget//doorknob.jpeg	miss	n/a	n/a	n/a	3218355	7	22833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3246355	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	3; 0; UN_0; sounds//beauty.wav	hit	3	19747	2	3247025	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	3; 10; UN_0; pictures//nontarget//pillow.jpg	miss	n/a	n/a	n/a	3247022	7	25834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3278022	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	4; 0; P; sounds//calorie.wav	hit	2	23599	2	3278693	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	4; 30; P; pictures//target//camel.jpg	miss	n/a	n/a	n/a	3278689	7	26000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3309856	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	5; 25; UN_200; sounds//dream.wav	incorrect	3	22794	2	3310526	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	5; 20; UN_200; pictures//target//barrel.jpg	miss	n/a	n/a	n/a	3312523	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3341356	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	6; 0; UN_0; sounds//creek.wav	hit	3	19144	2	3342026	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	6; 10; UN_0; pictures//nontarget//umbrella.jpg	miss	n/a	n/a	n/a	3342023	7	24667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3371856	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	7; 0; No; sounds//empty.wav	hit	3	12214	2	3372527	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	7; 50; No; pictures//nontarget//backpack.jpeg	miss	n/a	n/a	n/a	3372523	7	26000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3403690	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	8; 25; UN_200; sounds//dinner.wav	hit	3	13209	3	3404360	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	8; 20; UN_200; pictures//nontarget//Knee.jpg	miss	n/a	n/a	n/a	3406357	7	23000	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3434524	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	9; 0; UN_0; sounds//answer.wav	hit	2	17925	2	3435194	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	9; 10; UN_0; pictures//target//cereal.jpg	miss	n/a	n/a	n/a	3435190	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3465357	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	10; 0; No; sounds//empty.wav	hit	3	18500	2	3466027	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	10; 50; No; pictures//nontarget//closet.jpeg	miss	n/a	n/a	n/a	3466024	7	25833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3497024	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	11; 0; P; sounds//scholar.wav	hit	3	9823	2	3497694	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	11; 30; P; pictures//nontarget//scarf.jpg	miss	n/a	n/a	n/a	3497691	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3527691	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	12; 45; C; sounds//tube.wav	hit	2	16865	2	3528361	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	12; 40; C; pictures//target//funnel.jpg	miss	n/a	n/a	n/a	3530358	7	23500	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3559024	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	13; 45; C; sounds//flame.wav	hit	3	15351	2	3559694	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	13; 40; C; pictures//nontarget//match.jpg	miss	n/a	n/a	n/a	3561691	7	24000	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3590858	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	14; 45; C; sounds//parrot.wav	hit	2	15457	2	3591528	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	14; 40; C; pictures//target//owl.jpg	miss	n/a	n/a	n/a	3593525	7	22833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3621525	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	15; 0; UN_0; sounds//core.wav	hit	2	13769	2	3622195	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	15; 10; UN_0; pictures//target//eagle.jpg	miss	n/a	n/a	n/a	3622192	7	25667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3653025	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	16; 25; UN_200; sounds//verdict.wav	hit	3	10429	2	3653695	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	16; 20; UN_200; pictures//nontarget//banana.jpg	miss	n/a	n/a	n/a	3655692	7	23833	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3684692	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	17; 25; UN_200; sounds//sugar.wav	miss	n/a	n/a	n/a	3685362	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	17; 20; UN_200; pictures//target//Stool.jpg	miss	n/a	n/a	n/a	3687359	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3716192	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	18; 0; P; sounds//seller.wav	hit	3	13360	2	3716862	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	18; 30; P; pictures//nontarget//celery.jpg	miss	n/a	n/a	n/a	3716859	7	24667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3746692	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	19; 0; No; sounds//empty.wav	hit	2	15729	3	3747362	3	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	19; 50; No; pictures//target//pedal.jpeg	miss	n/a	n/a	n/a	3747359	7	24833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3777359	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	20; 25; UN_200; sounds//frame.wav	miss	n/a	n/a	n/a	3778029	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	20; 20; UN_200; pictures//target//shovel.png	miss	n/a	n/a	n/a	3780026	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3808860	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	21; 45; C; sounds//ostrich.wav	hit	3	13241	2	3809530	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	21; 40; C; pictures//nontarget//flamingo.jpg	miss	n/a	n/a	n/a	3811526	7	23667	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3840360	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	22; 0; UN_0; sounds//merit.wav	hit	3	14870	2	3841030	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	22; 10; UN_0; pictures//nontarget//telescope.jpg	miss	n/a	n/a	n/a	3841026	7	24833	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3871027	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	23; 0; UN_0; sounds//chime.wav	hit	2	9122	2	3871697	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	23; 10; UN_0; pictures//target//snail.jpg	miss	n/a	n/a	n/a	3871693	7	27834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3904694	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	24; 0; No; sounds//empty.wav	hit	3	20395	2	3905364	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	24; 50; No; pictures//nontarget//crane.jpeg	miss	n/a	n/a	n/a	3905360	7	25000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3935527	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	25; 45; C; sounds//wipe.wav	hit	2	10761	2	3936197	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	25; 40; C; pictures//target//towel.jpg	miss	n/a	n/a	n/a	3938194	7	23167	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	3966527	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	26; 0; P; sounds//apathy.wav	hit	2	10261	2	3967197	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	26; 30; P; pictures//target//apple.jpg	miss	n/a	n/a	n/a	3967194	7	28667	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	4001028	1	2667	7	0	next	n/a	n/a	n/a	n/a
+Sound	27; 25; UN_200; sounds//default.wav	hit	3	13109	2	4001698	1	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	27; 20; UN_200; pictures//nontarget//lightning.jpg	miss	n/a	n/a	n/a	4003694	7	22834	7	2580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	4031695	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	28; 0; P; sounds//pilgrim.wav	hit	2	11251	2	4032365	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	28; 30; P; pictures//target//pill.jpg	miss	n/a	n/a	n/a	4032361	7	27000	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	4064528	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	29; 0; No; sounds//empty.wav	hit	2	14977	2	4065198	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	29; 50; No; pictures//target//whistle.jpeg	miss	n/a	n/a	n/a	4065195	7	24834	7	580	next	n/a	n/a	n/a	n/a
+Picture	trial_start	other	n/a	n/a	n/a	4095195	1	667	7	0	next	n/a	n/a	n/a	n/a
+Sound	30; 0; P; sounds//sausage.wav	hit	3	11760	2	4095865	2	n/a	n/a	670	n/a	n/a	n/a	n/a	n/a
+Picture	30; 30; P; pictures//nontarget//saw.jpg	miss	n/a	n/a	n/a	4095862	7	24500	13	580	next	n/a	n/a	n/a	n/a
+Picture	0;222;blockend	other	n/a	n/a	n/a	4120362	7	167	13	0	next	n/a	n/a	n/a	n/a
+Picture	1; run1_end	other	n/a	n/a	n/a	4120528	7	2719643	7	0	next	n/a	n/a	n/a	n/a
